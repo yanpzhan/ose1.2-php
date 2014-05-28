@@ -95,5 +95,7 @@ Endpoints:
 #Source-Url: https://raw.github.com/yanpzhan/ose1.2-php/master/ose1.2-php.zip
 
 #Source-Url: https://raw.github.com/yanpzhan/ose1.2-php/master/ose1.2-php.tar.gz
-Source-Url: https://www.baidu.com
+#Source-Url: https://www.baidu.com
+Source-Url: https://raw.github.com/yanpzhan/ose1.2-php/master/ose1.2.tar.gz
+
 #Source-Url: https://raw.github.com/yanpzhan/ose1.2-php/master/ose1.2-php.tar
