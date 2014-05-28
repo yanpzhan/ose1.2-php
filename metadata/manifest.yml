@@ -90,5 +90,5 @@ Endpoints:
         Backend:       ""
         Options:       { health: true }
 
-Source-Url: https://github.com/yanpzhan/ose1.2-php.git
+#Source-Url: https://github.com/yanpzhan/ose1.2-php.git
 Source-Url: https://github.com/yanpzhan/ose1.2-php/master/ose1.2-php.zip
